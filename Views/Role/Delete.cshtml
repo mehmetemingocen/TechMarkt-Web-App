@@ -1,0 +1,39 @@
+@model AppRole
+@{
+    Layout = "_AdminLayout";
+}
+
+<div class="row">
+    <div class="col ">
+        <div class="card">
+            <div class="card-body text-center">
+                <p>
+                    Do you want to delete the named role @Model.Name ?
+                </p>
+
+                <form asp-action="DeleteConfirm" method="post">
+                    <input type="hidden" name="id" value="@Model.Id">
+
+                    @if (ViewBag.Users.Count > 0)
+                    {
+                        @foreach (var item in ViewBag.Users)
+                        {
+                            <p>
+                                @item
+                            </p>
+                        }
+                    }
+                    else
+                    {
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    }
+
+
+
+                    <a class="btn btn-primary" asp-action="Index">Cancel</a>
+                </form>
+            </div>
+        </div>
+
+    </div>
+</div>
