@@ -129,3 +129,18 @@
 .checked {
     color: orange;
 }
+
+.mic-button {
+  padding: 10px 20px;      /* Yatay (20px) - Dikey (10px) boşluk */
+  font-size: 18px;         /* Yazı ve ikon boyutu */
+  width: auto;             /* Gerekirse sabit genişlik de verilebilir */
+  border-radius: 8px;      /* Köşeleri yumuşatma */
+  background-color: #f1f1f1; /* Arka plan rengi */
+  border: 1px solid #ccc;  /* Kenarlık */
+  cursor: pointer;
+  transition: 0.3s ease;   /* Hover efekti için yumuşak geçiş */
+}
+
+.mic-button:hover {
+  background-color: #e0e0e0; /* Hover efekti */
+}
