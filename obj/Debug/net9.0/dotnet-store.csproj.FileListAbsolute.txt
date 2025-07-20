@@ -237,3 +237,4 @@ C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\ref\dotn
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\v6fbf8u7hm-l6j59c68gs.gz
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\48lvmql9bb-kr9hakbp75.gz
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\ybqhv9wpbv-8kw229vu7r.gz
+C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\dotnet-store.sourcelink.json
