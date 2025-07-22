@@ -156,10 +156,8 @@ C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\dotnet-s
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\dotnet-store.RazorAssemblyInfo.cs
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\scopedcss\bundle\dotnet-store.styles.css
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\stxxyg6xyu-h9v4xoiqc9.gz
-C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\gejvkwke1r-iuupnodv0a.gz
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\2v6xp16du8-61n19gt1b8.gz
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\t7hgfmq9h6-f6guyl0605.gz
-C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\prp9f1ih76-xtxxf3hu2r.gz
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\d6xi74t1eo-bqjiyaj88i.gz
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\bczleuiame-c2jlpeoesf.gz
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\mowre5qin0-erw9l3u2r3.gz
@@ -238,3 +236,5 @@ C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compress
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\48lvmql9bb-kr9hakbp75.gz
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\ybqhv9wpbv-8kw229vu7r.gz
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\dotnet-store.sourcelink.json
+C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\gejvkwke1r-y0s3n7a4hd.gz
+C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\prp9f1ih76-quo5rc9wdw.gz
