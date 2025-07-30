@@ -648,17 +648,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mfyZSk\u002BBQNDOSlaZ6hxBzdfSy51HfdbUhO3ZsXOv0Vg="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"30148"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022mfyZSk\u002BBQNDOSlaZ6hxBzdfSy51HfdbUhO3ZsXOv0Vg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 16:33:28 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dotnet-store/js/site.5fn1pwus3a.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5fn1pwus3a"},{"Name":"integrity","Value":"sha256-L7prMYp\u002BNhHlm74vXSpD7DV9RIgfDcyxd\u002BvU68gktuQ="},{"Name":"label","Value":"_content/dotnet-store/js/site.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1306"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022L7prMYp\u002BNhHlm74vXSpD7DV9RIgfDcyxd\u002BvU68gktuQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Jul 2025 17:43:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/dotnet-store/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EkiEK4hlxSsQdfi451mIocuH0MztWZogjz\u002BjUhC\u002B9EQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1319"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022EkiEK4hlxSsQdfi451mIocuH0MztWZogjz\u002BjUhC\u002B9EQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Jul 2025 17:24:38 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/dotnet-store/js/site.quo5rc9wdw.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"quo5rc9wdw"},{"Name":"integrity","Value":"sha256-EkiEK4hlxSsQdfi451mIocuH0MztWZogjz\u002BjUhC\u002B9EQ="},{"Name":"label","Value":"_content/dotnet-store/js/site.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1319"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022EkiEK4hlxSsQdfi451mIocuH0MztWZogjz\u002BjUhC\u002B9EQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Jul 2025 17:24:38 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-L7prMYp\u002BNhHlm74vXSpD7DV9RIgfDcyxd\u002BvU68gktuQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1306"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022L7prMYp\u002BNhHlm74vXSpD7DV9RIgfDcyxd\u002BvU68gktuQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Jul 2025 17:43:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/dotnet-store/lib/bootstrap/dist/css/bootstrap-grid.bqjiyaj88i.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>
