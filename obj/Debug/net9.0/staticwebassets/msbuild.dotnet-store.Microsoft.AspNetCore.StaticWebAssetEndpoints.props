@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\admin.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RTjSTwSLtkNUvtOqNbfoxKcm/niUpISMk1mgEG2hvsA="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"389"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022RTjSTwSLtkNUvtOqNbfoxKcm/niUpISMk1mgEG2hvsA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 16:33:27 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"389"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022RTjSTwSLtkNUvtOqNbfoxKcm/niUpISMk1mgEG2hvsA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 04 Aug 2025 16:09:50 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/dotnet-store/css/admin.h9v4xoiqc9.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\admin.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h9v4xoiqc9"},{"Name":"integrity","Value":"sha256-RTjSTwSLtkNUvtOqNbfoxKcm/niUpISMk1mgEG2hvsA="},{"Name":"label","Value":"_content/dotnet-store/css/admin.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"389"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022RTjSTwSLtkNUvtOqNbfoxKcm/niUpISMk1mgEG2hvsA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 16:33:27 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"389"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022RTjSTwSLtkNUvtOqNbfoxKcm/niUpISMk1mgEG2hvsA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 04 Aug 2025 16:09:50 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/dotnet-store/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
