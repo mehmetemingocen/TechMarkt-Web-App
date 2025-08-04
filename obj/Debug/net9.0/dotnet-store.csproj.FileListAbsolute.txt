@@ -238,3 +238,4 @@ C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\refint\d
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\dotnet-store.pdb
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\dotnet-store.genruntimeconfig.cache
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\ref\dotnet-store.dll
+C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
