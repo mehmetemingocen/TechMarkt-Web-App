@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnet-store")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+147765b26b068936b5b4aafc055c76e02bacd194")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e60b7499ec2c382b6ca1c22dce3922adf447151")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnet-store")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnet-store")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
