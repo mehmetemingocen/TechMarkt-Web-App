@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "sFilQUmA+ng5sjKxgHbFPp7/qnVE85EKGdpAlg9aEiM=",
-=======
-  "Hash": "k6g4ynmQLt2VnPI2Qq3z6KBwP7Ym3hcJ2TD3WyZdXdE=",
->>>>>>> development
+  "Hash": "ivkJskM32EWSfBTB524+CrZJHIsZyHn41kDXTPwKUOY=",
   "Source": "dotnet-store",
   "BasePath": "_content/dotnet-store",
   "Mode": "Default",
@@ -1008,20 +1004,12 @@
       "OriginalItemSpec": "C:\\Users\\MEHMET EMIN\\Desktop\\dotnet-store\\dotnet-store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\MEHMET EMIN\\Desktop\\dotnet-store\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\prp9f1ih76-9v9oi3fzaz.gz",
-=======
       "Identity": "C:\\Users\\MEHMET EMIN\\Desktop\\dotnet-store\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\prp9f1ih76-5fn1pwus3a.gz",
->>>>>>> development
       "SourceId": "dotnet-store",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\MEHMET EMIN\\Desktop\\dotnet-store\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/dotnet-store",
-<<<<<<< HEAD
-      "RelativePath": "js/site#[.{fingerprint=9v9oi3fzaz}]?.js.gz",
-=======
       "RelativePath": "js/site#[.{fingerprint=5fn1pwus3a}]?.js.gz",
->>>>>>> development
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1030,13 +1018,8 @@
       "RelatedAsset": "C:\\Users\\MEHMET EMIN\\Desktop\\dotnet-store\\dotnet-store\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-<<<<<<< HEAD
-      "Fingerprint": "wkgfx4zi67",
-      "Integrity": "UP1q3xvzS/HaI0+Jq9Lw68cKPs3zIM+2tp3bmSGZVxs=",
-=======
       "Fingerprint": "k8aebbje0a",
       "Integrity": "VNKG8ePlA1lp/jHs2HyBp+h5y7N8KEvVShBZn1YRp9o=",
->>>>>>> development
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\MEHMET EMIN\\Desktop\\dotnet-store\\dotnet-store\\wwwroot\\js\\site.js"
@@ -2589,13 +2572,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
-      "Fingerprint": "9v9oi3fzaz",
-      "Integrity": "C8pWsKNmsFGuuhYecOGotbQkZrkCq7QfyweihJvS3lQ=",
-=======
       "Fingerprint": "5fn1pwus3a",
       "Integrity": "L7prMYp+NhHlm74vXSpD7DV9RIgfDcyxd+vU68gktuQ=",
->>>>>>> development
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -9803,22 +9781,13 @@
       ]
     },
     {
-<<<<<<< HEAD
-      "Route": "js/site.9v9oi3fzaz.js",
-      "AssetFile": "C:\\Users\\MEHMET EMIN\\Desktop\\dotnet-store\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\prp9f1ih76-9v9oi3fzaz.gz",
-=======
       "Route": "js/site.5fn1pwus3a.js",
       "AssetFile": "C:\\Users\\MEHMET EMIN\\Desktop\\dotnet-store\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\prp9f1ih76-5fn1pwus3a.gz",
->>>>>>> development
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-<<<<<<< HEAD
-          "Quality": "0,001926782274"
-=======
           "Quality": "0,001587301587"
->>>>>>> development
         }
       ],
       "ResponseHeaders": [
@@ -9828,17 +9797,6 @@
         },
         {
           "Name": "Content-Length",
-<<<<<<< HEAD
-          "Value": "518"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UP1q3xvzS/HaI0+Jq9Lw68cKPs3zIM+2tp3bmSGZVxs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 04 Aug 2025 15:39:43 GMT"
-=======
           "Value": "629"
         },
         {
@@ -9847,8 +9805,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 17:43:42 GMT"
->>>>>>> development
+          "Value": "Mon, 04 Aug 2025 15:42:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9868,21 +9825,13 @@
         },
         {
           "Name": "ETag",
-<<<<<<< HEAD
-          "Value": "W/\"C8pWsKNmsFGuuhYecOGotbQkZrkCq7QfyweihJvS3lQ=\""
-=======
           "Value": "W/\"L7prMYp+NhHlm74vXSpD7DV9RIgfDcyxd+vU68gktuQ=\""
->>>>>>> development
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-<<<<<<< HEAD
-          "Value": "9v9oi3fzaz"
-=======
           "Value": "5fn1pwus3a"
->>>>>>> development
         },
         {
           "Name": "label",
@@ -9890,20 +9839,12 @@
         },
         {
           "Name": "integrity",
-<<<<<<< HEAD
-          "Value": "sha256-C8pWsKNmsFGuuhYecOGotbQkZrkCq7QfyweihJvS3lQ="
-=======
           "Value": "sha256-L7prMYp+NhHlm74vXSpD7DV9RIgfDcyxd+vU68gktuQ="
->>>>>>> development
         }
       ]
     },
     {
-<<<<<<< HEAD
-      "Route": "js/site.9v9oi3fzaz.js",
-=======
       "Route": "js/site.5fn1pwus3a.js",
->>>>>>> development
       "AssetFile": "C:\\Users\\MEHMET EMIN\\Desktop\\dotnet-store\\dotnet-store\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9913,11 +9854,7 @@
         },
         {
           "Name": "Content-Length",
-<<<<<<< HEAD
-          "Value": "1082"
-=======
           "Value": "1306"
->>>>>>> development
         },
         {
           "Name": "Content-Type",
@@ -9925,19 +9862,11 @@
         },
         {
           "Name": "ETag",
-<<<<<<< HEAD
-          "Value": "\"C8pWsKNmsFGuuhYecOGotbQkZrkCq7QfyweihJvS3lQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 04 Aug 2025 15:39:43 GMT"
-=======
           "Value": "\"L7prMYp+NhHlm74vXSpD7DV9RIgfDcyxd+vU68gktuQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 17:43:42 GMT"
->>>>>>> development
+          "Value": "Mon, 04 Aug 2025 15:42:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9947,11 +9876,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-<<<<<<< HEAD
-          "Value": "9v9oi3fzaz"
-=======
           "Value": "5fn1pwus3a"
->>>>>>> development
         },
         {
           "Name": "label",
@@ -9959,22 +9884,13 @@
         },
         {
           "Name": "integrity",
-<<<<<<< HEAD
-          "Value": "sha256-C8pWsKNmsFGuuhYecOGotbQkZrkCq7QfyweihJvS3lQ="
-=======
           "Value": "sha256-L7prMYp+NhHlm74vXSpD7DV9RIgfDcyxd+vU68gktuQ="
->>>>>>> development
         }
       ]
     },
     {
-<<<<<<< HEAD
-      "Route": "js/site.9v9oi3fzaz.js.gz",
-      "AssetFile": "C:\\Users\\MEHMET EMIN\\Desktop\\dotnet-store\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\prp9f1ih76-9v9oi3fzaz.gz",
-=======
       "Route": "js/site.5fn1pwus3a.js.gz",
       "AssetFile": "C:\\Users\\MEHMET EMIN\\Desktop\\dotnet-store\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\prp9f1ih76-5fn1pwus3a.gz",
->>>>>>> development
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9983,11 +9899,7 @@
         },
         {
           "Name": "Content-Length",
-<<<<<<< HEAD
-          "Value": "518"
-=======
           "Value": "629"
->>>>>>> development
         },
         {
           "Name": "Content-Type",
@@ -9995,19 +9907,11 @@
         },
         {
           "Name": "ETag",
-<<<<<<< HEAD
-          "Value": "\"UP1q3xvzS/HaI0+Jq9Lw68cKPs3zIM+2tp3bmSGZVxs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 04 Aug 2025 15:39:43 GMT"
-=======
           "Value": "\"VNKG8ePlA1lp/jHs2HyBp+h5y7N8KEvVShBZn1YRp9o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 17:43:42 GMT"
->>>>>>> development
+          "Value": "Mon, 04 Aug 2025 15:42:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10025,11 +9929,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-<<<<<<< HEAD
-          "Value": "9v9oi3fzaz"
-=======
           "Value": "5fn1pwus3a"
->>>>>>> development
         },
         {
           "Name": "label",
@@ -10037,30 +9937,18 @@
         },
         {
           "Name": "integrity",
-<<<<<<< HEAD
-          "Value": "sha256-UP1q3xvzS/HaI0+Jq9Lw68cKPs3zIM+2tp3bmSGZVxs="
-=======
           "Value": "sha256-VNKG8ePlA1lp/jHs2HyBp+h5y7N8KEvVShBZn1YRp9o="
->>>>>>> development
         }
       ]
     },
     {
       "Route": "js/site.js",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\MEHMET EMIN\\Desktop\\dotnet-store\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\prp9f1ih76-9v9oi3fzaz.gz",
-=======
       "AssetFile": "C:\\Users\\MEHMET EMIN\\Desktop\\dotnet-store\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\prp9f1ih76-5fn1pwus3a.gz",
->>>>>>> development
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-<<<<<<< HEAD
-          "Quality": "0,001926782274"
-=======
           "Quality": "0,001587301587"
->>>>>>> development
         }
       ],
       "ResponseHeaders": [
@@ -10070,17 +9958,6 @@
         },
         {
           "Name": "Content-Length",
-<<<<<<< HEAD
-          "Value": "518"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UP1q3xvzS/HaI0+Jq9Lw68cKPs3zIM+2tp3bmSGZVxs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 04 Aug 2025 15:39:43 GMT"
-=======
           "Value": "629"
         },
         {
@@ -10089,8 +9966,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 17:43:42 GMT"
->>>>>>> development
+          "Value": "Mon, 04 Aug 2025 15:42:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10110,21 +9986,13 @@
         },
         {
           "Name": "ETag",
-<<<<<<< HEAD
-          "Value": "W/\"C8pWsKNmsFGuuhYecOGotbQkZrkCq7QfyweihJvS3lQ=\""
-=======
           "Value": "W/\"L7prMYp+NhHlm74vXSpD7DV9RIgfDcyxd+vU68gktuQ=\""
->>>>>>> development
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-<<<<<<< HEAD
-          "Value": "sha256-C8pWsKNmsFGuuhYecOGotbQkZrkCq7QfyweihJvS3lQ="
-=======
           "Value": "sha256-L7prMYp+NhHlm74vXSpD7DV9RIgfDcyxd+vU68gktuQ="
->>>>>>> development
         }
       ]
     },
@@ -10139,11 +10007,7 @@
         },
         {
           "Name": "Content-Length",
-<<<<<<< HEAD
-          "Value": "1082"
-=======
           "Value": "1306"
->>>>>>> development
         },
         {
           "Name": "Content-Type",
@@ -10151,19 +10015,11 @@
         },
         {
           "Name": "ETag",
-<<<<<<< HEAD
-          "Value": "\"C8pWsKNmsFGuuhYecOGotbQkZrkCq7QfyweihJvS3lQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 04 Aug 2025 15:39:43 GMT"
-=======
           "Value": "\"L7prMYp+NhHlm74vXSpD7DV9RIgfDcyxd+vU68gktuQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 17:43:42 GMT"
->>>>>>> development
+          "Value": "Mon, 04 Aug 2025 15:42:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10173,21 +10029,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-<<<<<<< HEAD
-          "Value": "sha256-C8pWsKNmsFGuuhYecOGotbQkZrkCq7QfyweihJvS3lQ="
-=======
           "Value": "sha256-L7prMYp+NhHlm74vXSpD7DV9RIgfDcyxd+vU68gktuQ="
->>>>>>> development
         }
       ]
     },
     {
       "Route": "js/site.js.gz",
-<<<<<<< HEAD
-      "AssetFile": "C:\\Users\\MEHMET EMIN\\Desktop\\dotnet-store\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\prp9f1ih76-9v9oi3fzaz.gz",
-=======
       "AssetFile": "C:\\Users\\MEHMET EMIN\\Desktop\\dotnet-store\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\prp9f1ih76-5fn1pwus3a.gz",
->>>>>>> development
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10196,11 +10044,7 @@
         },
         {
           "Name": "Content-Length",
-<<<<<<< HEAD
-          "Value": "518"
-=======
           "Value": "629"
->>>>>>> development
         },
         {
           "Name": "Content-Type",
@@ -10208,19 +10052,11 @@
         },
         {
           "Name": "ETag",
-<<<<<<< HEAD
-          "Value": "\"UP1q3xvzS/HaI0+Jq9Lw68cKPs3zIM+2tp3bmSGZVxs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 04 Aug 2025 15:39:43 GMT"
-=======
           "Value": "\"VNKG8ePlA1lp/jHs2HyBp+h5y7N8KEvVShBZn1YRp9o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 17:43:42 GMT"
->>>>>>> development
+          "Value": "Mon, 04 Aug 2025 15:42:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10238,11 +10074,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-<<<<<<< HEAD
-          "Value": "sha256-UP1q3xvzS/HaI0+Jq9Lw68cKPs3zIM+2tp3bmSGZVxs="
-=======
           "Value": "sha256-VNKG8ePlA1lp/jHs2HyBp+h5y7N8KEvVShBZn1YRp9o="
->>>>>>> development
         }
       ]
     },

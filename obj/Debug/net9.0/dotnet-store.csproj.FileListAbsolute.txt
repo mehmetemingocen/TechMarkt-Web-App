@@ -11,6 +11,7 @@ C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\bin\Debug\net9.0\Azure.Co
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\bin\Debug\net9.0\Azure.Identity.dll
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\bin\Debug\net9.0\Humanizer.dll
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\bin\Debug\net9.0\Iyzipay.dll
+C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
@@ -157,10 +158,6 @@ C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\dotnet-s
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\dotnet-store.sourcelink.json
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\scopedcss\bundle\dotnet-store.styles.css
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\stxxyg6xyu-h9v4xoiqc9.gz
-<<<<<<< HEAD
-C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\2v6xp16du8-61n19gt1b8.gz
-C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\t7hgfmq9h6-f6guyl0605.gz
-=======
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\gejvkwke1r-y0s3n7a4hd.gz
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\ybqhv9wpbv-8kw229vu7r.gz
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\48lvmql9bb-kr9hakbp75.gz
@@ -168,7 +165,6 @@ C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compress
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\2v6xp16du8-61n19gt1b8.gz
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\t7hgfmq9h6-f6guyl0605.gz
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\prp9f1ih76-5fn1pwus3a.gz
->>>>>>> development
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\d6xi74t1eo-bqjiyaj88i.gz
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\bczleuiame-c2jlpeoesf.gz
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\mowre5qin0-erw9l3u2r3.gz
@@ -243,13 +239,3 @@ C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\refint\d
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\dotnet-store.pdb
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\dotnet-store.genruntimeconfig.cache
 C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\ref\dotnet-store.dll
-<<<<<<< HEAD
-C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\v6fbf8u7hm-l6j59c68gs.gz
-C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\48lvmql9bb-kr9hakbp75.gz
-C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\ybqhv9wpbv-8kw229vu7r.gz
-C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\dotnet-store.sourcelink.json
-C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\gejvkwke1r-y0s3n7a4hd.gz
-C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\obj\Debug\net9.0\compressed\prp9f1ih76-9v9oi3fzaz.gz
-=======
-C:\Users\MEHMET EMIN\Desktop\dotnet-store\dotnet-store\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
->>>>>>> development
