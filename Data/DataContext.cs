@@ -53,8 +53,9 @@ public class DataContext : IdentityDbContext<AppUser, AppRole, int>
                     Resim="1.jpeg",
                     Anasayfa=true,
                     Aciklama="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis quam accusamus neque tempore, consequatur dolor, nihil impedit recusandae ad adipisci eveniet libero ipsum quidem optio laboriosam, ea ipsa ducimus iusto?",
-                    KategoriId=1
-
+                    KategoriId=1,
+                    CreatedAt = new DateTime(2024, 1, 1, 0, 0, 0, DateTimeKind.Utc),
+                    UpdatedAt = new DateTime(2024, 1, 1, 0, 0, 0, DateTimeKind.Utc)
                 },
                 new Urun() {
                     Id = 2,
@@ -64,7 +65,9 @@ public class DataContext : IdentityDbContext<AppUser, AppRole, int>
                     Resim="2.jpeg",
                     Anasayfa=true,
                     Aciklama="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis quam accusamus neque tempore, consequatur dolor, nihil impedit recusandae ad adipisci eveniet libero ipsum quidem optio laboriosam, ea ipsa ducimus iusto?",
-                    KategoriId=1
+                    KategoriId=1,
+                    CreatedAt = new DateTime(2024, 1, 1, 0, 0, 0, DateTimeKind.Utc),
+                    UpdatedAt = new DateTime(2024, 1, 1, 0, 0, 0, DateTimeKind.Utc)
                 },
                 new Urun() {
                     Id = 3,
@@ -74,7 +77,9 @@ public class DataContext : IdentityDbContext<AppUser, AppRole, int>
                     Resim="3.jpeg",
                     Anasayfa=true,
                     Aciklama="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis quam accusamus neque tempore, consequatur dolor, nihil impedit recusandae ad adipisci eveniet libero ipsum quidem optio laboriosam, ea ipsa ducimus iusto?",
-                    KategoriId=2
+                    KategoriId=2,
+                    CreatedAt = new DateTime(2024, 1, 1, 0, 0, 0, DateTimeKind.Utc),
+                    UpdatedAt = new DateTime(2024, 1, 1, 0, 0, 0, DateTimeKind.Utc)
                 },
                 new Urun() {
                     Id = 4,
@@ -84,7 +89,9 @@ public class DataContext : IdentityDbContext<AppUser, AppRole, int>
                     Resim="4.jpeg",
                     Anasayfa=false,
                     Aciklama="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis quam accusamus neque tempore, consequatur dolor, nihil impedit recusandae ad adipisci eveniet libero ipsum quidem optio laboriosam, ea ipsa ducimus iusto?",
-                    KategoriId=2
+                    KategoriId=2,
+                    CreatedAt = new DateTime(2024, 1, 1, 0, 0, 0, DateTimeKind.Utc),
+                    UpdatedAt = new DateTime(2024, 1, 1, 0, 0, 0, DateTimeKind.Utc)
                 },
                 new Urun() {
                     Id = 5,
@@ -94,7 +101,9 @@ public class DataContext : IdentityDbContext<AppUser, AppRole, int>
                     Resim="5.jpeg",
                     Anasayfa=true,
                     Aciklama="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis quam accusamus neque tempore, consequatur dolor, nihil impedit recusandae ad adipisci eveniet libero ipsum quidem optio laboriosam, ea ipsa ducimus iusto?",
-                    KategoriId=2
+                    KategoriId=2,
+                    CreatedAt = new DateTime(2024, 1, 1, 0, 0, 0, DateTimeKind.Utc),
+                    UpdatedAt = new DateTime(2024, 1, 1, 0, 0, 0, DateTimeKind.Utc)
                 },
                 new Urun() {
                     Id = 6,
@@ -104,9 +113,10 @@ public class DataContext : IdentityDbContext<AppUser, AppRole, int>
                     Resim="6.jpeg",
                     Anasayfa=false,
                     Aciklama="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis quam accusamus neque tempore, consequatur dolor, nihil impedit recusandae ad adipisci eveniet libero ipsum quidem optio laboriosam, ea ipsa ducimus iusto?",
-                    KategoriId=3
-                }
-                ,
+                    KategoriId=3,
+                    CreatedAt = new DateTime(2024, 1, 1, 0, 0, 0, DateTimeKind.Utc),
+                    UpdatedAt = new DateTime(2024, 1, 1, 0, 0, 0, DateTimeKind.Utc)
+                },
                 new Urun() {
                     Id = 7,
                     UrunAdi="Apple Watch 14",
@@ -115,9 +125,10 @@ public class DataContext : IdentityDbContext<AppUser, AppRole, int>
                     Resim="7.jpeg",
                     Anasayfa=false,
                     Aciklama="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis quam accusamus neque tempore, consequatur dolor, nihil impedit recusandae ad adipisci eveniet libero ipsum quidem optio laboriosam, ea ipsa ducimus iusto?",
-                    KategoriId=3
-                }
-                ,
+                    KategoriId=3,
+                    CreatedAt = new DateTime(2024, 1, 1, 0, 0, 0, DateTimeKind.Utc),
+                    UpdatedAt = new DateTime(2024, 1, 1, 0, 0, 0, DateTimeKind.Utc)
+                },
                 new Urun() {
                     Id = 8,
                     UrunAdi="Apple Watch 15",
@@ -126,7 +137,9 @@ public class DataContext : IdentityDbContext<AppUser, AppRole, int>
                     Resim="8.jpeg",
                     Anasayfa=true,
                     Aciklama="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis quam accusamus neque tempore, consequatur dolor, nihil impedit recusandae ad adipisci eveniet libero ipsum quidem optio laboriosam, ea ipsa ducimus iusto?",
-                    KategoriId=4
+                    KategoriId=4,
+                    CreatedAt = new DateTime(2024, 1, 1, 0, 0, 0, DateTimeKind.Utc),
+                    UpdatedAt = new DateTime(2024, 1, 1, 0, 0, 0, DateTimeKind.Utc)
                 },
             }
         );

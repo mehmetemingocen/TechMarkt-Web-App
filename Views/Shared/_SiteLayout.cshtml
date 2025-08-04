@@ -24,6 +24,12 @@
 
     @await Html.PartialAsync("Partials/Site/_Footer")
 
+    <!-- Antiforgery Token - Chatbox için gerekli -->
+    @Html.AntiForgeryToken()
+    
+    <!-- Chatbox Partial View'ını buraya ekleyin -->
+    @await Html.PartialAsync("_ChatboxPartial")
+
     <script src="~/js/fslightbox.js"></script>
     <script src="~/js/site.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.bundle.min.js"></script>

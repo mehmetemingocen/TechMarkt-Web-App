@@ -2,6 +2,9 @@ using dotnet_store.Models;
 using dotnet_store.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +12,39 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddTransient<IEmailService, SmtpEmailService>();
 builder.Services.AddTransient<ICartService, CartService>();
 builder.Services.AddControllersWithViews();
+
+// Add CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowMobileApp",
+        builder =>
+        {
+            builder.AllowAnyOrigin()
+                   .AllowAnyMethod()
+                   .AllowAnyHeader();
+        });
+});
+
+// Add JWT Authentication
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+})
+.AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true,
+        ValidIssuer = builder.Configuration["Jwt:Issuer"] ?? "hepsisurada",
+        ValidAudience = builder.Configuration["Jwt:Audience"] ?? "hepsisurada-mobile",
+        IssuerSigningKey = new SymmetricSecurityKey(
+            Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"] ?? "your-secret-key-here-make-it-longer-for-production"))
+    };
+});
 
 builder.Services.AddDbContext<DataContext>(options =>
 {
@@ -76,6 +112,10 @@ else
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();
+
+// Use CORS
+app.UseCors("AllowMobileApp");
+
 app.UseAuthentication();
 app.UseAuthorization();
 

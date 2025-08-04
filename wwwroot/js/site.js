@@ -4,30 +4,38 @@
 // Write your JavaScript code.
 
 function startListening() {
-        if (!('webkitSpeechRecognition' in window)) {
-            alert("Tarayıcınız sesli yazmayı desteklemiyor.");
-            return;
-        }
-
-        const recognition = new webkitSpeechRecognition();
-        recognition.lang = "tr-TR"; // Türkçe için
-        recognition.continuous = false;
-        recognition.interimResults = false;
-
-        recognition.onstart = function () {
-            console.log("Dinleniyor...");
-        };
-
-        recognition.onresult = function (event) {
-            const transcript = event.results[0][0].transcript;
-            document.getElementById("searchInput").value = transcript;
-        };
-
-        recognition.onerror = function (event) {
-            console.error("Hata:", event.error);
-        };
-
-        recognition.start();
+    if (!('webkitSpeechRecognition' in window)) {
+        alert("Tarayıcınız sesli yazmayı desteklemiyor.");
+        return;
     }
+
+    const recognition = new webkitSpeechRecognition();
+    recognition.lang = "tr-TR";
+    recognition.continuous = false;
+    recognition.interimResults = false;
+
+    recognition.onstart = function () {
+        console.log("Dinleniyor...");
+    };
+
+    recognition.onresult = function (event) {
+        const transcript = event.results[0][0].transcript;
+        document.getElementById("searchInput").value = transcript;
+
+        // Submit butonunu class üzerinden bul ve tıkla
+        const submitButton = document.querySelector(".btn.btn-primary");
+        if (submitButton) {
+            submitButton.click();
+        } else {
+            console.warn("'.btn.btn-primary' sınıfına sahip submit butonu bulunamadı.");
+        }
+    };
+
+    recognition.onerror = function (event) {
+        console.error("Hata:", event.error);
+    };
+
+    recognition.start();
+}
 
     
