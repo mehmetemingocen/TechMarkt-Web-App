@@ -1,5 +1,8 @@
 # TechMarkt - Tech Shopping Web Application
 
+> ⚠️ Note: The main development code is on the **`development`** branch. Please use this branch for contributions or testing.
+
+
 A modern e-commerce platform designed specifically for technology products, built with ASP.NET Core MVC and featuring comprehensive admin management capabilities.
 
 ## 🎯 Purpose
@@ -78,7 +81,7 @@ The application is a standalone e-commerce platform that integrates with RESTful
 - Generate comprehensive sales reports
 - Revenue trend tracking
 - User activity monitoring
-- Performance metrics dashboard
+- Performance metrics dashboard.
 
 ## 🎭 User Roles & Capabilities
 
@@ -100,13 +103,60 @@ The application is a standalone e-commerce platform that integrates with RESTful
 
 ### 🗂️ System Diagrams
 
-![Use Case Diagram](.wwwroot/img/UseCaseDiagram2.png)
+## Use Case Diagram
+![Use Case Diagram](UseCaseDiagram2.png)
 
+## UML Class Diagram
+![UML Class Diagram](UMLdiagram.png)
 
+## Entity Relationship Diagram
+![Entity Relationship Diagram](ERdiagram.png)
 
-**UML Class Diagram**: *[Add your UML class diagram here showing system classes and relationships]*
+## Architectural Diagram
+![Architectural Diagram](ArchitecturalDiagram.png)
 
-**Entity Relationship Diagram**: *[Add your ER diagram here showing database schema]*
+## 🚀 Getting Started
 
-**Architectural Diagram**: *[Add your system architecture diagram here showing application layers]*
+### Prerequisites
+- Visual Studio 2022
+- .NET 9.0
+- SQL Server (LocalDB or full instance)
 
+### Installation
+1. Clone the repository
+2. Open the solution in Visual Studio
+3. Update the connection string in `appsettings.json`
+4. Run Entity Framework migrations
+5. Build and run the application
+
+### Configuration
+- Database connection strings
+- Payment gateway settings (Stripe)
+- Email service configuration
+- Authentication settings
+
+## 🤝 Contributing
+
+Guidelines for contributing to the TechMarkt project:
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a pull request
+
+## 📄 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## 📞 Support
+
+- **Email**: mehmetemingocen18@gmail.com
+- **Web**: [mehmetemingocen.com.tr](https://www.mehmetemingocen.com.tr/)
+- **GitHub Issues**: [Issues page](https://github.com/mehmetemingocen/TechMarkt-Web-App/issues)
+
+## 🙏 Thanks
+
+Thanks to all the contributors who helped us develop this project!
+
+---
+
+**⭐ If you like this project, don’t forget to give it a star!**
