@@ -147,7 +147,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## 📞 Support
 
 - **Email**: mehmetemingocen18@gmail.com
-- **Web**: [https://www.mehmetemingocen.com.tr](https://www.mehmetemingocen.com.tr/)
+- **Web**: [mehmetemingocen.com.tr](https://www.mehmetemingocen.com.tr/)
 - **GitHub Issues**: [Issues page](https://github.com/mehmetemingocen/TechMarkt-Web-App/issues)
 
 ## 🙏 Thanks
