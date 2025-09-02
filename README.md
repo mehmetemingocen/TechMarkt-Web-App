@@ -1,2 +1,2 @@
-# Hepsisurada-Web-App
-Hepsişurada Tech Shopping Web Application 
+# TechMarkt-Web-App
+TechMarkt Tech Shopping Web Application 
